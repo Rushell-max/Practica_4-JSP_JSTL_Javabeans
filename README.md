@@ -13,7 +13,6 @@ a. Desacargar la biblioteca JSTL (https://tomcat.apache.org/taglibs/standard/)
 b. Actualizar el proyecto:
     
     Subir las bibliotecas jstl*.jar en WEB-INF/lib
-    
     Importar las bibliotecas jstl*.jar en el proyecto: properties -> build path -> libraries -> add external jars
 
 c. Actualizar el servlet:
